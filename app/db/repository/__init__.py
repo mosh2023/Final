@@ -1,0 +1,1 @@
+'''Repository entities for convenient interaction with the database.'''
